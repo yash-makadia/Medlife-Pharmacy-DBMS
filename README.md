@@ -61,7 +61,7 @@ The ERD illustrates relationships between entities: Company, Drug, Inventory, Em
 ### Installation
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/Medlife-Pharmacy-DBMS.git
+   git clone https://github.com/yash-makadia/Medlife-Pharmacy-DBMS.git
    cd Medlife-Pharmacy-DBMS
    ```
 2. **Create the Database**:
@@ -92,21 +92,13 @@ Sample data in `schema.sql` includes:
 - **Inventory**: Warehouses at various addresses.
 - **Customers**: Sample customers with purchase histories.
 
-## Screenshots
-
-### Query Outputs
-- **Customer Assistance**: ![Customer Assistance](media/query_outputs/query_1.png)
-- **Inventory Management**: ![Inventory Management](media/query_outputs/query_2.png)
-- **Sales Trends**: ![Sales Trends](media/query_outputs/query_3.png)
-- **Profitability**: ![Profitability](media/query_outputs/query_4.png)
-
 ## Project Files
 
 - `schema.sql`: SQL script for table creation and sample data insertion.
 - `queries.sql`: SQL script for business transaction queries.
-- `docs/project_proposal.pdf`: Project proposal document.
-- `docs/project_readme.pdf`: Original README document.
-- `docs/project_presentation.pdf`: Project presentation slides.
+- `docs/Project_Proposal.pdf`: Project proposal document.
+- `docs/Project_Readme.pdf`: Original README document.
+- `docs/Project_Presentation.pdf`: Project presentation slides.
 - `media/erd.png`: Entity Relationship Diagram.
 - `media/query_outputs/`: Screenshots of query outputs.
 
@@ -133,4 +125,4 @@ Contributions are welcome! Please fork the repository, create a new branch, and 
 
 ## Contact
 
-For questions or feedback, please open an issue on GitHub or contact the project maintainer at yashmakadia1908@gmail.com.
+For questions or feedback, please open an issue on GitHub or contact me at yashmakadia1908@gmail.com.
